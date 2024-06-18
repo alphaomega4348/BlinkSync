@@ -1,4 +1,4 @@
-# 🗨️ MyChatApp
+# 🗨️ BlinkSync
 
 Welcome to **MyChatApp**, the ultimate platform for seamless and fun communication! 🌟
 
