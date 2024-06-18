@@ -60,7 +60,7 @@ npm start
 ## 📸 Screenshots of the App
 
 <a href="https://ibb.co/T4x6TF4"><img src="https://i.ibb.co/y6ctRb6/Screenshot-2024-06-18-at-10-42-05-PM.png" alt="Screenshot-2024-06-18-at-10-42-05-PM" border="0"></a>
-<a href="https://ibb.co/2njw1W6"><img src="https://i.ibb.co/WxcQ4G3/Screenshot-2024-06-18-at-10-38-47-PM.png" alt="Screenshot-2024-06-18-at-10-38-47-PM" border="0"></a>
+<a href="https://ibb.co/17M9CgM"><img src="https://i.ibb.co/2WSjz9S/Screenshot-2024-06-18-at-10-57-51-PM.png" alt="Screenshot-2024-06-18-at-10-57-51-PM" border="0"></a>
 <a href="https://ibb.co/MgR4V0c"><img src="https://i.ibb.co/HKrsz8t/Screenshot-2024-06-18-at-10-42-22-PM.png" alt="Screenshot-2024-06-18-at-10-42-22-PM" border="0"></a>
 
 
