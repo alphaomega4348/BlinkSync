@@ -22,7 +22,7 @@ Welcome to **MyChatApp**, the ultimate platform for seamless and fun communicati
 - [Node.js](https://nodejs.org/) (v14.x or higher)
 - [npm](https://www.npmjs.com/) (v6.x or higher)
 
-### Installation
+## Installation
 
 
 ### Clone the repository:
