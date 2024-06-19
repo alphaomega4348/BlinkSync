@@ -1,6 +1,6 @@
 # 🗨️ BlinkSync
 
-Welcome to **MyChatApp**, the ultimate platform for seamless and fun communication! 🌟
+Welcome to **BlinkSync**, the ultimate platform for seamless and fun communication! 🌟
 
 
 <a href="https://ibb.co/cYCDnP0"><img src="https://i.ibb.co/dmLGYSF/Screenshot-2024-06-18-at-10-29-45-PM.png" alt="Screenshot-2024-06-18-at-10-29-45-PM" border="0"></a>
